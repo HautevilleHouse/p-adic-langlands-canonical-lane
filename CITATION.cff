@@ -1,0 +1,21 @@
+title: "p-adic Langlands via p-adic Packet Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/p-adic-langlands-canonical-lane"
+url: "https://github.com/HautevilleHouse/p-adic-langlands-canonical-lane"
+license: None
+keywords:
+  - p-adic-langlands
+  - p-adic-hodge-theory
+  - galois-representations
+  - representation-theory
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "p-adic Langlands via p-adic Packet Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05

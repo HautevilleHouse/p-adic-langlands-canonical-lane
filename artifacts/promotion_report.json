@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "p_adic_langlands",
+  "generated_utc": "2026-03-13T04:34:18Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8038585209003215,
+    "kappa_padic": 1.0940320000000001,
+    "packet_padic": 1.0315400000000001,
+    "rho_rigidity": 1.078,
+    "sigma_matching": 1.075
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.054
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}

@@ -1,0 +1,109 @@
+{
+  "schema_version": "2026-03-05",
+  "generated_utc": "2026-03-13T04:34:18Z",
+  "lane": "manifold_constrained",
+  "baseline_certificate_path": "repro/certificate_baseline.json",
+  "runtime_certificate_path": "repro/certificate_runtime.json",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "ef1e7bbf5dafb2893ab29f228664c1ed7d1ee42db8736d5fa10b4a5a8e9da757"
+    },
+    {
+      "path": "README.md",
+      "sha256": "ea45e287491e611321c596365f1452191c48831d603ea16978f07f4fbeb56e43"
+    },
+    {
+      "path": "artifacts/constants_extracted.json",
+      "sha256": "fef4c0d68414beb82abd8864bbaa7f998f96acbc533f4ed3fe598546d582c77f"
+    },
+    {
+      "path": "artifacts/constants_extraction_inputs.json",
+      "sha256": "942c5be10c615bd8b4e28f0d29ab823f18056d6de6bd25259d67a0c7186b60da"
+    },
+    {
+      "path": "artifacts/constants_registry.json",
+      "sha256": "36caa77dbf4aadb5a76cf82039f9fc2225cf286ad88ff98dd6e4e29d0d0d4db0"
+    },
+    {
+      "path": "artifacts/promotion_report.json",
+      "sha256": "af3f1606b1b9196b7c0a6236982b960ec518cf09d0cd3d1b1f62d212789f175d"
+    },
+    {
+      "path": "artifacts/stitch_constants.json",
+      "sha256": "f071f16e5747ff8abb251f9efa6b939bfd82f47de22badfd3a35005cff03c62b"
+    },
+    {
+      "path": "notes/EG1_public.md",
+      "sha256": "f0ade38724a79546b45357befdf33f425d0e4ee187211861d689ee1e8c814105"
+    },
+    {
+      "path": "notes/EG2_public.md",
+      "sha256": "58a0550a1a10fc1e1f3027dc30bc5a95c8f7308f3e1b9f73908924aaec90f2f2"
+    },
+    {
+      "path": "notes/EG3_public.md",
+      "sha256": "97b92324bb14d58e4a37667ddca6f51f2d496a6af10ea871ab04f6fca8712ba2"
+    },
+    {
+      "path": "notes/EG4_public.md",
+      "sha256": "a1c3abcb055b5f2623ad6b75c67aa5803c33936559983c73a9c418b21bb833a6"
+    },
+    {
+      "path": "notes/IDENTIFICATION_BRIDGE.md",
+      "sha256": "3a5bcb26de4e0605b16ae0079f06003f81fb58950e30b7c3e7e56de31d24b01f"
+    },
+    {
+      "path": "paper/CANONICAL_ROUTING_INDEX.md",
+      "sha256": "08f83c48fc5a1c05564b7a66bf6d074d89396f784ed21d388070723c17e0ef8b"
+    },
+    {
+      "path": "paper/EXTRACTION_SPEC.md",
+      "sha256": "82f8924c6c7522886f9eea8ab4cd5f422da2d637239f972d64670960074e3d1b"
+    },
+    {
+      "path": "paper/P_ADIC_LANGLANDS_PREPRINT.md",
+      "sha256": "29b7fd96a23b718320c0bf63b805b1abb1bce752722742dbc134c57d0e95357f"
+    },
+    {
+      "path": "repro/REPRO_PACK.md",
+      "sha256": "5e987bd3a23221f1b38b56b5c4157f55d9384537d999b57331f49513035c981f"
+    },
+    {
+      "path": "repro/THIRD_PARTY_RERUN_PROTOCOL.md",
+      "sha256": "16c2ead8e7a5920b6208d8dbde6b0c64005e67b43b43e17572a3eed0590ebe73"
+    },
+    {
+      "path": "repro/certificate_baseline.json",
+      "sha256": "f85dc2a422dfeafe8e149bc1e9913e38610f0b4addd6b8454e742ba52c682194"
+    },
+    {
+      "path": "repro/run_repro.sh",
+      "sha256": "3874cab8f2caf682129c235659dfc373935a47438bc6d67b6cc7ee2a7177a6ad"
+    },
+    {
+      "path": "scripts/extract_constants.py",
+      "sha256": "61775512903af1abf2a430f74f06797352ca655833bd69fe66b2d89b8c261b6e"
+    },
+    {
+      "path": "scripts/promote_constants.py",
+      "sha256": "c13fe0f68b0737a319c9feff0e196108b9a49d8acc5ad817f8ae62597c8bc13c"
+    },
+    {
+      "path": "scripts/release_gate.py",
+      "sha256": "5c9760aeddbfa0e4b5a9447e1bda670004391c19470f9b1cf8897bf154f667b8"
+    },
+    {
+      "path": "scripts/update_manifest.py",
+      "sha256": "6cee83954c38d792f86564334a5e93750a9842afe569fb4685a3f47def392352"
+    },
+    {
+      "path": "scripts/pad_closure_guard.py",
+      "sha256": "c27a8e9cf049fe13b2f1c32ec19b41742987ce884ee35d1f618ed9de8d65b36a"
+    },
+    {
+      "path": "scripts/README.md",
+      "sha256": "0bb4856108c4fe42cd7511b3b615035c850febb57fa818b3226b29d13353b44f"
+    }
+  ]
+}
