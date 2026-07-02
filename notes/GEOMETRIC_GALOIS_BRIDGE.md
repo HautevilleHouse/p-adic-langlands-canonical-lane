@@ -1,6 +1,6 @@
 # Geometric Galois Bridge
 
-Mature wording: `Galois bridge / remainder discipline`.
+Canonical wording: `Galois bridge / remainder discipline`.
 
 In-paper anchor: `paper/P_ADIC_LANGLANDS_PREPRINT.md` (bridge and margin interface).
 
@@ -39,5 +39,5 @@ If projection, remainder discipline, and endpoint transfer are all explicit, the
 - transfer artifact key: `packet_padic`
 - coherence artifact key: `eps_coh`
 - margin: `M_PAD`
-- mature equivalent: `Galois bridge / remainder discipline`
+- canonical equivalent: `Galois bridge / remainder discipline`
 - audit surface: `notes/IDENTIFICATION_BRIDGE.md` and `repro/certificate_runtime.json`
