@@ -43,7 +43,7 @@ Let `A_padic` denote the admissible class used throughout Sections 2-9 and Appen
 
 ### 1.3 Explicit remainder discipline
 
-Write `Y = Y_mc^PAD \sqcup R_PAD`, where `Y_mc^PAD` is the declared admissible visible sector induced by `A_padic` and `R_PAD` is the explicit complement in the full problem-side class `Y`. The theorem package closes on `Y_mc^PAD`; it does not silently identify admissible closure with unrestricted closure on `Y`. Any stronger external consequence must therefore be expressed as control, reduction, or iterative refinement of `R_PAD`.
+Write `Y = Y_mc^PAD \sqcup R_PAD`, where `Y_mc^PAD` is the declared admissible visible sector induced by `A_padic` and `R_PAD` is the explicit complement in the full problem-side class `Y`. The theorem package closes on `Y_mc^PAD`; admissible closure remains distinct from unrestricted closure on `Y`. Any stronger external consequence must therefore be expressed as control, reduction, or iterative refinement of `R_PAD`.
 
 Equivalently, if `P_mc` denotes projection to the admissible sector and `Q_rem := I - P_mc`, then the visible problem-side object decomposes as
 

@@ -35,7 +35,7 @@
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "e8ccf2179dc8045546bbf55a21f36dfaabd4d13b202dfd42d9ecc92aad484333"
+      "sha256": "665d309e7f2097cf2a1923d42cc746766d254cc7f8373500b986bde70e235100"
     },
     {
       "path": "notes/EG3_public.md",
@@ -59,7 +59,7 @@
     },
     {
       "path": "paper/P_ADIC_LANGLANDS_PREPRINT.md",
-      "sha256": "e84c70510e2316e38fdfc9282f1f3c08c5717622b78e736764ce0311908ad96d"
+      "sha256": "5e2718d4ed137f41d63eb5776724d6b886b0843881aaf4bd757eda0d0ea71e81"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -102,7 +102,7 @@
       "sha256": "0bb4856108c4fe42cd7511b3b615035c850febb57fa818b3226b29d13353b44f"
     }
   ],
-  "generated_utc": "2026-07-02T16:29:36Z",
+  "generated_utc": "2026-07-02T16:58:00Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"
