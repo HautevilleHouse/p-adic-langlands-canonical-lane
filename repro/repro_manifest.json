@@ -7,7 +7,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "ea45e287491e611321c596365f1452191c48831d603ea16978f07f4fbeb56e43"
+      "sha256": "52e93f0d734a1c3a0becc980ddf5474d2edb722f8b5581b99787ff0948df32e8"
     },
     {
       "path": "artifacts/constants_extracted.json",
@@ -59,7 +59,7 @@
     },
     {
       "path": "paper/P_ADIC_LANGLANDS_PREPRINT.md",
-      "sha256": "5e2718d4ed137f41d63eb5776724d6b886b0843881aaf4bd757eda0d0ea71e81"
+      "sha256": "728c071279fa8ac2b06e0584916ad4ff4d162969dac62de5a2cb62051202c1c6"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -102,7 +102,7 @@
       "sha256": "0bb4856108c4fe42cd7511b3b615035c850febb57fa818b3226b29d13353b44f"
     }
   ],
-  "generated_utc": "2026-07-02T16:58:00Z",
+  "generated_utc": "2026-07-03T01:17:18Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"

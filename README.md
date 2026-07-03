@@ -19,7 +19,7 @@ This repository is not a single primitive p-adic correspondence case. It is the 
 4. locally analytic and completed-cohomology transfer packages,
 5. local-global stitching of the declared p-adic packet correspondence.
 
-The runtime surface certifies closure of the declared super-lane, not just one isolated p-adic correspondence example.
+The runtime surface establishes closure of the declared super-lane, not just one isolated p-adic correspondence example.
 
 ## Structure
 
